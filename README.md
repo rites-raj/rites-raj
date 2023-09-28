@@ -9,4 +9,8 @@
 - 📚 Studying: Pursuing a bachelor's degree in Statistics.
 - 💻 Career Aspirations: Eager to enter the IT field, particularly in Data Science.
 
-🚀 I'm passionate about the world of data and the exciting career opportunities it offers. Feel free to connect with me, and let's explore the data-driven future together!
+🚀 I'm passionate about data-driven insights, problem-solving, and coding solutions that make a positive impact. 
+
+💡 Feel free to explore my repositories to see my coding projects and experiments. Let's connect and collaborate on exciting tech endeavors!
+
+🌟 Thank you for visiting, and let's code the future together!
