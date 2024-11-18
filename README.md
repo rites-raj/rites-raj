@@ -1,6 +1,6 @@
 # Hello, World! 
 
-🌷 This is Riteshraj Shetage, and an under-grad student from Kolhapur, Maharashtra, India. 
+🌷 This is Riteshraj Shetage, an under-grad student from Kolhapur, Maharashtra, India. 
 
 - 🎓 I'm currently pursuing a bachelor's degree in Statistics, and I have ambitious plans to transition into the IT field, with a specific focus on Data Science.
 
