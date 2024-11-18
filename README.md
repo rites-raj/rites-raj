@@ -2,7 +2,7 @@
 
 🌷 This is Riteshraj Shetage, an under-grad student from Kolhapur, Maharashtra, India. 
 
-- 🎓 I'm currently pursuing a bachelor's degree in Statistics, and I have ambitious plans to transition into the IT field, with a specific focus on Data Science.
+- 🎓 I'm currently pursuing a bachelor's degree in Statistics, and I have ambitious plans to transition into the IT field, with a specific focus on emerging technologies like Generative AI, Machine Learning, Data Science etc.
 
 ## About Me
 
